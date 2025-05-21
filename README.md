@@ -1,13 +1,23 @@
-# React + Vite
+# Agency Landing Page - Free & Open-Source SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo 👉 [https://lively-blini-4a92ae.netlify.app/](https://lively-blini-4a92ae.netlify.app/)
 
-Currently, two official plugins are available:
+Agency Landing Page is a free and open-source SaaS landing page template built with **React**, **Tailwind CSS**. It’s designed for startups, SaaS applications, and tech-driven businesses to showcase their products, pricing plans, testimonials, and more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 💻 **Responsive Layout** - Optimized for mobile, tablet, and desktop views
+- 🎨 **Tailwind CSS** - Built with utility-first CSS for fast styling
+- 🧩 **Flowbite Components** - Utilizes interactive and accessible UI components
+- 🗂 **Reusable Sections** - Hero, Features, Testimonials, Pricing, FAQ, and Footer
+- ⚡ **Performance Optimized** - Lightweight, fast-loading React app
+- 🌍 **Deployed on Netlify** - Try the live demo instantly
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# agency-landing-page" 
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/abirc0928/agency-landing-page.git
+cd agency-landing-page
